@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+h1{
+    font-size: 50px ;
+    color: rgb(44, 221, 201);
+}
+.gradient { 
+	background:linear-gradient(45deg, #d5e807, rgb(223, 31, 201)); 
+	height: 850px;
+	border: 1px solid #333;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+p {
+    font-family: "MS 明朝";
+    }
+    h2{
+        color: aqua;
+    }
